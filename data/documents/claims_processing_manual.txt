@@ -1,0 +1,273 @@
+# Claims Processing Manual
+
+## MEDICAL CLAIMS EVALUATION GUIDELINES
+
+### Document Control
+- **Version**: 2.1
+- **Effective Date**: March 2024
+- **Review Date**: March 2025
+- **Owner**: Claims Department
+
+---
+
+## CHAPTER 1: INTRODUCTION
+
+### 1.1 Purpose
+This manual provides guidelines for evaluating medical insurance claims to ensure consistent, fair, and timely processing.
+
+### 1.2 Scope
+Applies to all medical claims including:
+- Hospitalization claims
+- Surgical procedure claims
+- Diagnostic test claims
+- Emergency treatment claims
+- Outpatient procedure claims
+
+---
+
+## CHAPTER 2: CLAIM EVALUATION CRITERIA
+
+### 2.1 Standard Evaluation Process
+
+All claims must be evaluated based on:
+1. **Policy Coverage**: Verify procedure is covered
+2. **Waiting Periods**: Ensure waiting periods are satisfied
+3. **Medical Necessity**: Confirm treatment was medically necessary
+4. **Documentation**: Verify all required documents are complete
+5. **Network Status**: Check if treatment was at network facility
+
+### 2.2 Orthopedic Claims
+
+#### Knee Surgery Claims
+**Coverage Details:**
+- Knee replacement (total/partial): Covered at 80%
+- Arthroscopic procedures: Covered at 80%
+- Knee repair after injury: Covered at 80%
+- Maximum limit: ₹2,00,000 per policy year
+
+**Evaluation Criteria:**
+- Patient age: 18-80 years eligible
+- Policy active for minimum 90 days
+- Medical reports indicating surgical necessity
+- Pre-authorization obtained for planned procedures
+
+**Common Approval Scenarios:**
+- Sports injury requiring knee repair
+- Arthritis requiring knee replacement
+- Accidental damage requiring surgical intervention
+
+**Typical Rejection Reasons:**
+- Cosmetic knee procedures
+- Experimental knee treatments
+- Claims within 90-day waiting period
+- Pre-existing conditions not disclosed
+
+#### Hip Surgery Claims
+**Coverage Details:**
+- Hip replacement: Covered at 85%
+- Hip repair procedures: Covered at 85%
+- Maximum limit: ₹2,50,000 per policy year
+
+**Special Considerations:**
+- Age-related hip problems in elderly patients
+- Accident-related hip injuries
+- Congenital hip disorders (after waiting period)
+
+### 2.3 Cardiac Claims
+
+#### Heart Surgery Claims
+**Coverage Details:**
+- Bypass surgery: Covered at 90%
+- Valve replacement: Covered at 90%
+- Angioplasty: Covered at 85%
+- Maximum limit: ₹5,00,000 per policy year
+
+**Critical Evaluation Points:**
+- Emergency vs. planned procedures
+- Specialist recommendations required
+- Pre-existing heart conditions
+- 180-day waiting period compliance
+
+---
+
+## CHAPTER 3: GEOGRAPHIC CONSIDERATIONS
+
+### 3.1 City-Specific Guidelines
+
+#### Metro Cities (Mumbai, Delhi, Bangalore, Chennai)
+- Higher treatment costs typically accepted
+- Extensive network hospital coverage
+- 24/7 emergency claim processing
+- Average claim settlement: 5-7 days
+
+#### Tier-2 Cities (Pune, Jaipur, Lucknow, etc.)
+- Moderate treatment cost benchmarks
+- Good network hospital availability
+- Standard claim processing timelines
+- Average claim settlement: 7-10 days
+
+#### Smaller Cities and Towns
+- Cost-effectiveness evaluation required
+- Limited network hospitals
+- May require transfer to larger cities
+- Extended settlement timelines possible
+
+### 3.2 Location-Based Claim Patterns
+
+**High-Volume Claim Cities:**
+1. Mumbai: Cardiac and orthopedic procedures
+2. Delhi: Multi-specialty treatments
+3. Bangalore: Technology-assisted surgeries
+4. Pune: Orthopedic and trauma cases
+5. Chennai: Cardiac procedures
+
+---
+
+## CHAPTER 4: AGE-SPECIFIC GUIDELINES
+
+### 4.1 Young Adults (18-35 years)
+
+**Common Claims:**
+- Sports injuries
+- Accident-related treatments
+- Preventive procedures
+
+**Evaluation Focus:**
+- Lifestyle factors
+- Accident circumstances
+- Prevention vs. treatment
+
+### 4.2 Middle-aged Adults (36-55 years)
+
+**Common Claims:**
+- Lifestyle-related conditions
+- Preventive screenings
+- Early intervention procedures
+
+**Evaluation Focus:**
+- Risk factor assessment
+- Medical necessity validation
+- Cost-benefit analysis
+
+### 4.3 Senior Citizens (56+ years)
+
+**Common Claims:**
+- Age-related degenerative conditions
+- Joint replacement surgeries
+- Cardiac procedures
+
+**Special Considerations:**
+- Multiple comorbidities
+- Higher treatment costs
+- Extended recovery periods
+- Quality of life improvements
+
+---
+
+## CHAPTER 5: DECISION MATRIX
+
+### 5.1 Automatic Approval Criteria
+
+Claims are automatically approved when:
+- Amount < ₹25,000
+- Network hospital treatment
+- Standard procedures with clear medical necessity
+- All documentation complete
+- No red flags in medical history
+
+### 5.2 Manual Review Required
+
+Claims requiring manual review:
+- Amount > ₹1,00,000
+- Non-network hospital treatment
+- Unusual or complex procedures
+- Documentation gaps
+- Pre-existing condition claims
+
+### 5.3 Specialist Consultation Required
+
+Refer to medical specialists when:
+- Experimental or new procedures
+- Multiple procedure combinations
+- Conflicting medical opinions
+- High-value cardiac claims
+- Complex orthopedic cases
+
+---
+
+## CHAPTER 6: COMMON SCENARIOS
+
+### 6.1 Example Case Studies
+
+#### Case 1: Knee Surgery in Pune
+**Scenario**: 46-year-old male, knee surgery, 3-month-old policy
+**Evaluation**:
+- Age: Eligible (18-80 range)
+- Procedure: Covered under orthopedic benefits
+- Policy duration: 90 days (meets waiting period)
+- Location: Pune (covered city)
+**Decision**: APPROVED at 80% coverage
+
+#### Case 2: Emergency Heart Surgery
+**Scenario**: 55-year-old female, emergency cardiac procedure
+**Evaluation**:
+- Emergency treatment (waiting period waived)
+- Life-threatening condition
+- Network hospital treatment
+**Decision**: APPROVED at 90% coverage
+
+#### Case 3: Hip Replacement
+**Scenario**: 68-year-old patient, elective hip replacement
+**Evaluation**:
+- Age-appropriate procedure
+- Medical necessity established
+- Waiting period satisfied
+**Decision**: APPROVED at 85% coverage
+
+---
+
+## CHAPTER 7: APPEALS PROCESS
+
+### 7.1 Claim Denial Appeals
+
+When claims are denied, policyholders can:
+1. Request detailed denial reason
+2. Submit additional documentation
+3. Seek independent medical review
+4. Escalate to senior claims manager
+
+### 7.2 Appeals Timeline
+
+- Initial appeal: 30 days from denial
+- Review period: 15 working days
+- Final decision: Binding unless escalated
+- Ombudsman referral: Available after internal process
+
+---
+
+## CHAPTER 8: QUALITY ASSURANCE
+
+### 8.1 Claim Audit Requirements
+
+Regular audits must verify:
+- Decision consistency
+- Documentation adequacy
+- Timeline compliance
+- Customer satisfaction
+- Fraud detection
+
+### 8.2 Performance Metrics
+
+**Key Performance Indicators:**
+- Claim settlement ratio: >95%
+- Average settlement time: <10 days
+- Customer satisfaction: >4.5/5
+- Appeals reversal rate: <5%
+
+---
+
+*This manual is confidential and for internal use only. All claim processors must be familiar with these guidelines and apply them consistently.*
+
+**Document Classification**: Internal  
+**Next Review Date**: March 2025  
+**Approved By**: Chief Claims Officer

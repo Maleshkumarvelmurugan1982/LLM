@@ -1,0 +1,195 @@
+# Sample Insurance Policy Document
+
+## HEALTH INSURANCE POLICY
+
+### Policy Number: HIP-2024-001
+### Effective Date: January 1, 2024
+
+---
+
+## SECTION 1: COVERAGE OVERVIEW
+
+This health insurance policy provides comprehensive medical coverage for policyholders and their dependents. Coverage includes hospitalization, surgical procedures, diagnostic tests, and preventive care.
+
+### 1.1 Covered Medical Procedures
+
+The following medical procedures are covered under this policy:
+
+#### Orthopedic Procedures
+- **Knee Surgery**: Including knee replacement, arthroscopy, and repair procedures
+  - Coverage: 80% of eligible expenses
+  - Maximum benefit: ₹2,00,000 per policy year
+  - Waiting period: 90 days from policy inception
+
+- **Hip Surgery**: Including hip replacement and repair procedures  
+  - Coverage: 85% of eligible expenses
+  - Maximum benefit: ₹2,50,000 per policy year
+  - Waiting period: 90 days from policy inception
+
+- **Shoulder Surgery**: Including rotator cuff repair and joint replacement
+  - Coverage: 75% of eligible expenses
+  - Maximum benefit: ₹1,50,000 per policy year
+  - Waiting period: 90 days from policy inception
+
+#### Cardiac Procedures
+- **Heart Surgery**: Including bypass surgery, valve replacement, and angioplasty
+  - Coverage: 90% of eligible expenses
+  - Maximum benefit: ₹5,00,000 per policy year
+  - Waiting period: 180 days from policy inception
+
+- **Cardiac Catheterization**: Diagnostic and therapeutic procedures
+  - Coverage: 85% of eligible expenses
+  - Maximum benefit: ₹1,00,000 per policy year
+  - Waiting period: 30 days from policy inception
+
+### 1.2 Geographic Coverage
+
+Medical treatments are covered when performed at:
+- Network hospitals within India
+- Emergency treatment anywhere in India
+- Pre-approved treatment at international facilities (subject to conditions)
+
+Covered cities include but are not limited to:
+- Mumbai, Delhi, Bangalore, Chennai, Kolkata
+- Pune, Hyderabad, Ahmedabad, Jaipur, Lucknow
+- All Tier-1 and Tier-2 cities with network hospitals
+
+---
+
+## SECTION 2: ELIGIBILITY CRITERIA
+
+### 2.1 Age Requirements
+- Minimum entry age: 18 years
+- Maximum entry age: 65 years
+- Coverage continuation up to age 80
+
+### 2.2 Policy Waiting Periods
+
+#### General Waiting Period
+All non-emergency medical treatments require a minimum waiting period of 30 days from policy inception date.
+
+#### Specific Waiting Periods
+- **Major Surgeries**: 90 days waiting period
+- **Pre-existing Conditions**: 24 months waiting period
+- **Maternity Coverage**: 10 months waiting period
+
+### 2.3 Coverage Limitations
+
+Maximum coverage amounts per policy year:
+- Individual coverage: ₹5,00,000
+- Family floater: ₹10,00,000
+- Critical illness: ₹25,00,000
+
+---
+
+## SECTION 3: CLAIMS PROCESS
+
+### 3.1 Claim Filing Requirements
+
+To file a claim, policyholders must:
+1. Notify the insurance company within 24 hours of admission
+2. Submit all required documents within 30 days
+3. Provide original medical bills and discharge summary
+4. Complete the claim form with accurate information
+
+### 3.2 Required Documents
+
+- Policy certificate
+- Medical bills and receipts
+- Hospital discharge summary
+- Doctor's treatment certificate
+- Diagnostic test reports
+- Identity proof and age proof
+
+### 3.3 Claim Settlement Timeline
+
+- **Cashless Claims**: Pre-authorization within 2 hours
+- **Reimbursement Claims**: Settlement within 15 working days
+- **Complex Cases**: May require up to 30 days for investigation
+
+---
+
+## SECTION 4: EXCLUSIONS
+
+### 4.1 General Exclusions
+
+The following are not covered under this policy:
+
+#### Cosmetic Procedures
+- Plastic surgery for aesthetic purposes
+- Cosmetic dental procedures
+- Hair transplantation
+- Skin treatments for beauty enhancement
+
+#### Experimental Treatments
+- Investigational drugs or procedures
+- Clinical trial participation
+- Unproven medical treatments
+- Alternative medicine not recognized by medical boards
+
+#### Lifestyle-Related Exclusions
+- Treatment for substance abuse
+- Self-inflicted injuries
+- Injuries during illegal activities
+- War and terrorism-related injuries
+
+### 4.2 Specific Medical Exclusions
+
+- Congenital disorders (unless covered after waiting period)
+- Mental health conditions (limited coverage available)
+- Dental treatment (except accidental damage)
+- Vision correction procedures
+
+---
+
+## SECTION 5: POLICY CONDITIONS
+
+### 5.1 Premium Payment
+
+- Annual premium payment required
+- Grace period: 30 days from due date
+- Policy lapses if premium not paid within grace period
+- Reinstatement possible with medical underwriting
+
+### 5.2 Policy Renewal
+
+- Guaranteed renewal up to age 80
+- Premium may increase based on age and claims experience
+- No waiting period for renewed policies
+- Continuous coverage benefits maintained
+
+### 5.3 Network Hospitals
+
+Treatment at network hospitals provides:
+- Cashless treatment facility
+- Direct billing arrangement
+- Quality assured medical care
+- 24/7 customer support
+
+Current network includes over 5,000 hospitals across India.
+
+---
+
+## SECTION 6: CUSTOMER SERVICE
+
+### 6.1 Contact Information
+
+- **Claims Helpline**: 1800-XXX-XXXX
+- **Customer Service**: 1800-YYY-YYYY  
+- **Email**: claims@healthinsurance.com
+- **Website**: www.healthinsurance.com
+
+### 6.2 Grievance Redressal
+
+If unsatisfied with claim settlement:
+1. Contact customer service within 30 days
+2. Escalate to grievance committee if needed
+3. Approach Insurance Ombudsman as final resort
+
+---
+
+*This document contains the key terms and conditions of the health insurance policy. For complete terms, please refer to the full policy document.*
+
+**Policy Effective Date**: January 1, 2024  
+**Document Version**: 1.0  
+**Last Updated**: January 2024

@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  llm-document-query:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - LOG_LEVEL=INFO
+      - VECTOR_DB_PERSIST_DIRECTORY=/app/data/vector_db
+      - VECTOR_DB_COLLECTION_NAME=documents
+      - EMBEDDING_MODEL_NAME=sentence-transformers/all-MiniLM-L6-v2
+      - EMBEDDING_DEVICE=cpu
+      - SIMILARITY_THRESHOLD=0.7
+      - MAX_SEARCH_RESULTS=10
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  vector_db_data:
+  logs:
